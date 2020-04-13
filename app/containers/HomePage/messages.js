@@ -12,4 +12,11 @@ export default defineMessages({
     id: `${scope}.header`,
     defaultMessage: 'This is the HomePage container!',
   },
+
+  repaymentScheduleText: {
+    id: `${scope}.repayment_schedule_text`,
+    defaultMessage: 'Repayment Schedule',
+  },
 });
+
+
